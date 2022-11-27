@@ -1,9 +1,9 @@
 title:              Michael's Blog
 email:              mikeykim1338@gmail.com
-description:        A Blog for Exploring Real Estate Topics
+description:        My Blog for Exploring Real Estate Topics
 author:             Michael Kim
 baseurl:            ""
-url:                "https://startbootstrap.github.io"
+url:                "https://michaelkimy.github.io"
 theme:              jekyll-theme-clean-blog
 
 # Social Profiles
