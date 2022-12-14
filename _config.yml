@@ -4,7 +4,7 @@ description:        A Blog for Exploring Real Estate
 author:             Michael Kim
 baseurl:            ""
 url:                "https://michaelkimy.github.io"
-theme:              jekyll-theme-clean-blog
+remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
 twitter_username:   mkim1338
